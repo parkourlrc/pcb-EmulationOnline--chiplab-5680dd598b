@@ -1,4 +1,4 @@
-23040255004167628
+23042034216674600
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -94396,6 +94396,13 @@ gameboy cartridge slot
 32
 custom
 GameBoy_GamePak_DMG-09_P1.50mm_Edge
+Game Boy Game Pak (DMG) edge connector
+game boy game pak dmg edge connector
+0
+32
+32
+custom
+edge_GameBoy_GamePak_DMG-09_P1.50mm_Edge
 Game Boy Game Pak (DMG) edge connector
 game boy game pak dmg edge connector
 0
